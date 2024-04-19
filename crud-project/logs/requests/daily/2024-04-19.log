@@ -1,0 +1,6 @@
+info: ::1 - - [19/Apr/2024:05:47:14 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 237 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [19/Apr/2024:05:47:21 +0000] "POST /api/user/resetpass HTTP/1.1" 202 279 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [19/Apr/2024:05:47:32 +0000] "POST /api/user/resetpass HTTP/1.1" 202 280 "-" "PostmanRuntime/7.37.3"
+

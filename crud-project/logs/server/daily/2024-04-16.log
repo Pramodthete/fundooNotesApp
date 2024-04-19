@@ -1,0 +1,492 @@
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T08:46:10.571Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T08:46:10.609Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T08:46:57.051Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T08:46:57.072Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T08:50:20.742Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T08:50:20.762Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T08:50:53.630Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T08:50:53.654Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T08:53:19.879Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T08:53:19.903Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:02:54.286Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:02:54.307Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:03:24.077Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:03:24.100Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:03:49.180Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:03:49.218Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:03:59.294Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:03:59.320Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:04:31.029Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:04:31.052Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:04:44.508Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:04:44.537Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:05:01.549Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:05:01.572Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:05:14.231Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:05:14.255Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:05:49.037Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:05:49.058Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:06:20.128Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:06:20.170Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:06:30.637Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:06:30.663Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:06:36.224Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:06:36.254Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:06:43.043Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:06:43.102Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:06:47.405Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:06:47.429Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:07:38.056Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:07:38.103Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:08:10.993Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:08:11.021Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:08:39.080Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:08:39.101Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:08:46.484Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:08:46.511Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:09:00.348Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:09:00.372Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:09:33.321Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:09:33.351Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:10:06.198Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:10:06.226Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.findByEmail is not a function
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:43:26)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.loginUser (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:42:23)
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:103:36)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at loginUser (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:101:23)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-16T09:10:07.523Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:11:58.253Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:11:58.274Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.findByEmail is not a function
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:44:27)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.loginUser (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:42:23)
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:103:36)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at loginUser (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:101:23)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-16T09:12:03.956Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:16:10.875Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:16:10.906Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.findByEmailAndPassword is not a function
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:45:29)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.loginUser (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:42:23)
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:103:36)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at loginUser (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:101:23)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-16T09:16:13.635Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:17:48.948Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:17:48.973Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:20:01.624Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:20:01.656Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:30:30.601Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:30:30.628Z"}
+error: 
+    status - 500 
+    message - ReferenceError: findByEmailAndPassword is not defined
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:42:37)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.loginUser (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:42:23)
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:103:36)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at loginUser (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:101:23)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-16T09:30:34.041Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:30:52.262Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:30:52.288Z"}
+error: 
+    status - 500 
+    message - TypeError: _user.default.findByEmailAndPassword is not a function
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:45:29)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.loginUser (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:42:23)
+    at _callee6$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:103:36)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at loginUser (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:101:23)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-16T09:30:52.810Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:33:23.566Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:33:23.590Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:33:44.799Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:33:44.820Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:33:59.649Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:33:59.669Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:34:10.320Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:34:10.340Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:34:19.103Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:34:19.121Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:35:29.688Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:35:29.714Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:36:07.935Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:36:07.955Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:36:21.616Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:36:21.636Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:37:13.649Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:37:13.668Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:37:25.131Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:37:25.150Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:37:35.240Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:37:35.264Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:37:43.721Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:37:43.745Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:38:13.097Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:38:13.118Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:38:40.088Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:38:40.108Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "getall" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\javascript_vuejs\nodejs\crud-project\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\javascript_vuejs\nodejs\crud-project\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/getall 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2024-04-16T09:52:39.791Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T09:53:03.375Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T09:53:03.422Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:14:50.889Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:14:50.926Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:14:58.244Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:14:58.279Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:15:33.017Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:15:33.048Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:15:54.326Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:15:54.363Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:16:23.966Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:16:24.053Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:16:30.609Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:16:30.646Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 38
+    at JSON.parse (<anonymous>)
+    at parse (C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-16T10:16:31.438Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:16:59.656Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:16:59.695Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:17:10.358Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:17:10.396Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:17:48.259Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:17:48.301Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:23:47.227Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:23:47.257Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:35:48.169Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:35:48.205Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:36:15.480Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:36:15.526Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:36:50.595Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:36:50.625Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:37:33.910Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:37:33.942Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:37:59.702Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:37:59.735Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:38:22.109Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:38:22.146Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:38:37.379Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:38:37.411Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:38:50.993Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:38:51.028Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" length must be at least 5 characters long 
+    url - /api/user 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-16T10:39:44.380Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:47:51.539Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:47:51.572Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:49:34.998Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:49:35.042Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:52:27.522Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:52:27.563Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:53:00.036Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:53:00.089Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T10:55:47.604Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T10:55:47.643Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-16T11:18:39.435Z"}
+info: Connected to the database. {"timestamp":"2024-04-16T11:18:39.464Z"}

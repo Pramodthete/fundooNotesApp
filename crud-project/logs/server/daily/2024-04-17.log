@@ -1,0 +1,435 @@
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T05:48:20.457Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T05:48:20.490Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:04:22.052Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:04:22.122Z"}
+error: 
+    status - 500 
+    message - ReferenceError: res is not defined
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:55:9)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T09:18:16.292Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:18:47.225Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:18:47.248Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:19:03.165Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:19:03.185Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:19:12.232Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:19:12.251Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:19:23.361Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:19:23.386Z"}
+error: 
+    status - 500 
+    message - ReferenceError: user is not defined
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:109:27)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T09:19:43.746Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:20:11.380Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:20:11.401Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:25:22.993Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:25:23.012Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:26:52.364Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:26:52.394Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:27:06.705Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:27:06.741Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:27:27.831Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:27:27.854Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:27:38.701Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:27:38.724Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:28:14.086Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:28:14.114Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:28:23.145Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:28:23.166Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:28:42.620Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:28:42.647Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:28:57.048Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:28:57.072Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:29:04.767Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:29:04.800Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:29:21.470Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:29:21.493Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:29:27.173Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:29:27.192Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:29:32.619Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:29:32.642Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:29:50.610Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:29:50.640Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:30:08.128Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:30:08.147Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:30:15.509Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:30:15.533Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:30:47.638Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:30:47.715Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:31:10.387Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:31:10.417Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:31:16.075Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:31:16.104Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:31:50.196Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:31:50.220Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:31:57.632Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:31:57.657Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:32:30.614Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:32:30.635Z"}
+error: 
+    status - 500 
+    message - Error: Expected "payload" to be a plain object.
+    at validate (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:40:11)
+    at validatePayload (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:62:10)
+    at Object.sign (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:114:7)
+    at setUser (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:45:14)
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:112:30)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T09:32:43.435Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:37:15.387Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:37:15.410Z"}
+error: 
+    status - 500 
+    message - Error: Expected "payload" to be a plain object.
+    at validate (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:40:11)
+    at validatePayload (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:62:10)
+    at Object.sign (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:114:7)
+    at setUser (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:45:14)
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:112:30)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T09:37:23.574Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:39:06.239Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:39:06.263Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:41:51.824Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:41:51.846Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:41:59.965Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:41:59.991Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:42:22.324Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:42:22.350Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:42:30.920Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:42:30.944Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:42:39.716Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:42:39.735Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:42:50.489Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:42:50.520Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:42:56.369Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:42:56.392Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:43:02.592Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:43:02.617Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:45:04.016Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:45:04.037Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:45:13.961Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:45:13.983Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:45:23.332Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:45:23.360Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:45:26.932Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:45:26.955Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:45:52.270Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:45:52.296Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:46:13.643Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:46:13.661Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:48:07.939Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:48:07.963Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:48:14.891Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:48:14.912Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:48:27.302Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:48:27.325Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:48:42.824Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:48:42.843Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:48:47.627Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:48:47.657Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:48:52.746Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:48:52.775Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:48:59.387Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:48:59.442Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:49:02.690Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:49:02.712Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:49:09.399Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:49:09.423Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:49:18.915Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:49:18.933Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:49:29.106Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:49:29.127Z"}
+error: 
+    status - 500 
+    message - ReferenceError: setUser is not defined
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:51:15)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T09:49:51.914Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:50:28.873Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:50:28.903Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:53:31)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T09:50:31.454Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:50:50.246Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:50:50.271Z"}
+error: 
+    status - 500 
+    message - Error: Expected "payload" to be a plain object.
+    at validate (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:40:11)
+    at validatePayload (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:62:10)
+    at Object.sign (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:114:7)
+    at setUser (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:45:14)
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:53:30)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T09:50:51.819Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:51:12.904Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:51:12.930Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:51:18.745Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:51:18.770Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:51:23.757Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:51:23.785Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:51:41.877Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:51:41.898Z"}
+error: 
+    status - 500 
+    message - Error: Expected "payload" to be a plain object.
+    at validate (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:40:11)
+    at validatePayload (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:62:10)
+    at Object.sign (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:114:7)
+    at setUser (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:45:14)
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\controllers\/user.controller.js:112:30)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T09:51:46.619Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:52:29.158Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:52:29.179Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:52:33.257Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:52:33.277Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:52:39.656Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:52:39.675Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:53:06.203Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:53:06.230Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:53:16.370Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:53:16.400Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:53:21.990Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:53:22.040Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:53:25.290Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:53:25.318Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T09:53:33.235Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T09:53:33.262Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:04:06.444Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:04:06.467Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:04:33.259Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:04:33.280Z"}
+error: 
+    status - 500 
+    message - TypeError: (0 , _auth.setUser) is not a function
+    at _callee2$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:53:30)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T10:04:36.161Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:05:05.301Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:05:05.330Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:06:03.942Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:06:03.992Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:06:14.693Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:06:14.726Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:08:42.822Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:08:42.847Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:08:51.099Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:08:51.149Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:08:57.707Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:08:57.737Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:09:26.313Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:09:26.336Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:09:30.317Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:09:30.341Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:09:40.038Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:09:40.065Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:09:43.702Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:09:43.728Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T10:55:25.620Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T10:55:25.659Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T11:58:59.707Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T11:58:59.725Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:16:29.227Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:16:29.248Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:16:40.367Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:16:40.407Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:16:55.412Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:16:55.432Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:17:08.380Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:17:08.401Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:17:41.532Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:17:41.558Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:19:55.054Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:19:55.080Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:20:40.796Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:20:40.847Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:20:53.517Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:20:53.557Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:27:34.322Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:27:34.343Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:27:46.154Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:27:46.174Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:29:46.727Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:29:46.748Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:31:01.523Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:31:01.574Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:31:23.525Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:31:23.547Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:33:49.190Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:33:49.209Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:33:58.204Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:33:58.249Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:34:10.217Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:34:10.241Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:34:14.789Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:34:14.811Z"}
+error: 
+    status - 500 
+    message - Error: secretOrPrivateKey must have a value
+    at Object.sign (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:107:20)
+    at setToken (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:45:14)
+    at _callee3$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:53:31)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T12:35:16.545Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:36:05.263Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:36:05.281Z"}
+error: 
+    status - 500 
+    message - Error: secretOrPrivateKey must have a value
+    at Object.sign (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:107:20)
+    at setToken (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:46:14)
+    at _callee3$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:53:31)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T12:36:05.955Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:37:43.641Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:37:43.667Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:37:48.020Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:37:48.042Z"}
+error: 
+    status - 500 
+    message - Error: secretOrPrivateKey must have a value
+    at Object.sign (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:107:20)
+    at setToken (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:46:14)
+    at _callee3$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:53:31)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T12:37:51.516Z"}
+error: 
+    status - 500 
+    message - Error: secretOrPrivateKey must have a value
+    at Object.sign (C:\javascript_vuejs\nodejs\crud-project\node_modules\jsonwebtoken\sign.js:107:20)
+    at setToken (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:46:14)
+    at _callee3$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:53:31)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T12:38:40.334Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:41:58.643Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:41:58.664Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:43:13.626Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:43:13.649Z"}
+error: 
+    status - 500 
+    message - ReferenceError: secret is not defined
+    at setToken (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:50:5)
+    at _callee3$ (C:\javascript_vuejs\nodejs\crud-project\src\services\/user.service.js:53:31)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/user/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-04-17T12:43:23.200Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-04-17T12:43:52.779Z"}
+info: Connected to the database. {"timestamp":"2024-04-17T12:43:52.797Z"}

@@ -1,0 +1,514 @@
+info: ::1 - - [16/Apr/2024:08:46:29 +0000] "GET /user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:08:46:42 +0000] "GET /user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:08:46:57 +0000] "GET /user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:08:47:04 +0000] "GET /api/user HTTP/1.1" 200 65 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:08:53:33 +0000] "GET /api/user HTTP/1.1" 200 65 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:08:55:00 +0000] "POST /api/user HTTP/1.1" 201 260 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:08:56:16 +0000] "POST /api/user HTTP/1.1" 201 262 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:08:56:25 +0000] "GET /api/user HTTP/1.1" 200 472 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:09:49 +0000] "POST /api/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:10:07 +0000] "POST /api/user/login HTTP/1.1" 500 78 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:12:03 +0000] "POST /api/user/login HTTP/1.1" 500 78 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:16:13 +0000] "POST /api/user/login HTTP/1.1" 500 89 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:30:34 +0000] "POST /api/user/login HTTP/1.1" 500 72 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:30:52 +0000] "POST /api/user/login HTTP/1.1" 500 89 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:35:30 +0000] "POST /api/user/login HTTP/1.1" 201 262 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:38:13 +0000] "POST /api/user/login HTTP/1.1" 201 264 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:48:47 +0000] "POST /api/user HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:49:44 +0000] "POST /api/user HTTP/1.1" 201 266 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:50:40 +0000] "POST /api/user HTTP/1.1" 201 264 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:51:50 +0000] "POST /api/user HTTP/1.1" 201 260 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:52:39 +0000] "GET /api/user/getall HTTP/1.1" 500 128 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:53:06 +0000] "GET /api/user/getall HTTP/1.1" 200 1285 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:54:43 +0000] "DELETE /api/user/661e3d308f97c947144ace6e HTTP/1.1" 200 60 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:09:54:57 +0000] "GET /api/user/getall HTTP/1.1" 200 1080 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:02:07 +0000] "GET /api/user/661e3ce48f97c947144ace6c HTTP/1.1" 200 260 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:04:37 +0000] "PUT /api/user/661e3ce48f97c947144ace6c HTTP/1.1" 202 261 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:10:56 +0000] "GET /api/user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:11:21 +0000] "POST /api/user/login HTTP/1.1" 201 64 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:13:04 +0000] "POST /api/user/login HTTP/1.1" 201 262 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:16:42 +0000] "POST /api/user/login HTTP/1.1" 201 51 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:17:23 +0000] "POST /api/user/login HTTP/1.1" 201 73 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:17:53 +0000] "POST /api/user/login HTTP/1.1" 201 262 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:39:44 +0000] "POST /api/user HTTP/1.1" 500 89 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:39:56 +0000] "POST /api/user HTTP/1.1" 201 259 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:40:04 +0000] "GET /api/user/getall HTTP/1.1" 200 1280 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:49:40 +0000] "GET /api/user/getall HTTP/1.1" 200 1280 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:52:29 +0000] "GET /api/user/getall HTTP/1.1" 200 1280 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:53:04 +0000] "GET /api/user/getall HTTP/1.1" 200 1280 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [16/Apr/2024:10:55:51 +0000] "GET /api/user/getall HTTP/1.1" 200 1280 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:04:27 +0000] "GET /api/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:04:28 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:04:28 +0000] "GET /api/highLightTitle.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:04:46 +0000] "GET /api/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:04:47 +0000] "GET /api/highLightTitle.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:05:04 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:05:05 +0000] "GET /api/user/highLightTitle.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:18:16 +0000] "POST /api/user/login HTTP/1.1" 500 53 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:19:43 +0000] "POST /api/user/login HTTP/1.1" 500 54 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:20:12 +0000] "POST /api/user/login HTTP/1.1" 201 262 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:20:20 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:20:22 +0000] "GET /api/user/highLightTitle.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:32:43 +0000] "POST /api/user/login HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:33:37 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:34:15 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:35:41 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:35:42 +0000] "GET /api/user/highLightTitle.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:35:50 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:35:51 +0000] "GET /api/user/highLightTitle.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:09:37:18 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:37:23 +0000] "POST /api/user/login HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:39:08 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:39:43 +0000] "PUT /api/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:42:11 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:43:10 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:46:21 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:47:28 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:47:49 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:48:16 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:48:29 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:49:37 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:49:46 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:49:51 +0000] "POST /api/user/login HTTP/1.1" 500 57 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:50:31 +0000] "POST /api/user/login HTTP/1.1" 500 54 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:50:51 +0000] "POST /api/user/login HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:51:46 +0000] "POST /api/user/login HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:52:43 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:53:36 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:53:54 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:55:42 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:55:53 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:56:36 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:56:48 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:09:56:55 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:00:00 +0000] "GET /api/user/login HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:10:00:01 +0000] "GET /api/user/highLightTitle.png HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Apr/2024:10:01:58 +0000] "POST /api/user HTTP/1.1" 201 260 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:04:36 +0000] "POST /api/user/login HTTP/1.1" 500 72 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:05:07 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:06:21 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:07:11 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:08:00 +0000] "POST /api/user/login HTTP/1.1" 201 259 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:09:47 +0000] "POST /api/user/login HTTP/1.1" 201 259 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:13:20 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:13:41 +0000] "POST /api/user/login HTTP/1.1" 201 259 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:10:55:50 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:11:59:08 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:35:16 +0000] "POST /api/user/login HTTP/1.1" 500 71 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:36:05 +0000] "POST /api/user/login HTTP/1.1" 500 71 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:37:51 +0000] "POST /api/user/login HTTP/1.1" 500 71 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:38:40 +0000] "POST /api/user/login HTTP/1.1" 500 71 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:43:23 +0000] "POST /api/user/login HTTP/1.1" 500 56 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:43:53 +0000] "POST /api/user/login HTTP/1.1" 201 259 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:44:47 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:45:14 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:45:24 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:12:46:28 +0000] "POST /api/user/login HTTP/1.1" 201 259 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [17/Apr/2024:13:00:01 +0000] "PUT /api/user/661e3ce48f97c947144ace6c HTTP/1.1" 202 265 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:05:48:12 +0000] "PUT /api/user/661e3ce48f97c947144ace6c HTTP/1.1" 202 265 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:24:12 +0000] "POST /api/user HTTP/1.1" 500 56 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:40:30 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:42:15 +0000] "POST /api/user/resetpass HTTP/1.1" 400 56 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:42:25 +0000] "POST /api/user/resetpass HTTP/1.1" 202 35 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:43:33 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:43:52 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:44:17 +0000] "POST /api/user/resetpass HTTP/1.1" 202 35 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:52:05 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:52:24 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:52:40 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:53:19 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:53:54 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:54:43 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:09:58:10 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:01:37 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:05:34 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:09:04 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:13:41 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:15:47 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:25:49 +0000] "POST /api/user/login HTTP/1.1" 500 58 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:26:21 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 95 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:26:45 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:31:20 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:31:46 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:35:50 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:37:51 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:40:20 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:41:14 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 212 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:42:21 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:48:52 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:52:19 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:10:55:06 +0000] "POST /api/user/login HTTP/1.1" 201 263 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:11:10:44 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 38 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:11:17:01 +0000] "POST /api/user/forgotpass HTTP/1.1" 400 56 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:11:19:06 +0000] "POST /api/user/forgotpass HTTP/1.1" 400 56 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:11:46:38 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 237 "-" "PostmanRuntime/7.37.3"
+
+error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at _callee$ (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:33:5)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:17:22)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {"date":"Thu Apr 18 2024 17:16:56 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":630227.281},"process":{"argv":["node","C:\\javascript_vuejs\\nodejs\\crud-project\\src\\index.js"],"cwd":"C:\\javascript_vuejs\\nodejs\\crud-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18316007,"external":20559651,"heapTotal":52092928,"heapUsed":49517824,"rss":91553792},"pid":18600,"uid":null,"version":"v19.3.0"},"stack":"TypeError: next is not a function\n    at _callee$ (C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js:33:5)\n    at tryCatch (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:27:7\n    at new Promise (<anonymous>)\n    at apply (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:19:12)\n    at userAuth (C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js:17:22)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at logger (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\body-parser\\lib\\read.js:137:5\n    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)\n    at invokeCallback (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:513:28)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","trace":[{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js","function":"_callee$","line":33,"method":null,"native":false},{"column":16,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":45,"method":null,"native":false},{"column":17,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":null,"line":133,"method":null,"native":false},{"column":21,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":74,"method":"next","native":false},{"column":24,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":22,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":null,"line":27,"method":null,"native":false},{"column":null,"file":null,"function":"new Promise","line":null,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"apply","line":19,"method":null,"native":false},{"column":22,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js","function":"userAuth","line":17,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js","function":"next","line":149,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js","function":"Route.dispatch","line":119,"method":"dispatch","native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":15,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":284,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\morgan\\index.js","function":"logger","line":144,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\body-parser\\lib\\read.js","function":null,"line":137,"method":null,"native":false},{"column":9,"file":"node:async_hooks","function":"AsyncResource.runInAsyncScope","line":204,"method":"runInAsyncScope","native":false},{"column":16,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"invokeCallback","line":238,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"done","line":227,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"IncomingMessage.onEnd","line":287,"method":"onEnd","native":false},{"column":28,"file":"node:events","function":"IncomingMessage.emit","line":513,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"IncomingMessage.emit","line":489,"method":"emit","native":false},{"column":12,"file":"node:internal/streams/readable","function":"endReadableNT","line":1359,"method":null,"native":false},{"column":21,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":82,"method":null,"native":false}]}
+info: ::1 - - [18/Apr/2024:11:48:36 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 237 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:11:48:48 +0000] "POST /api/user/login HTTP/1.1" 201 274 "-" "PostmanRuntime/7.37.3"
+
+error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at _callee$ (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:33:5)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:17:22)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {"date":"Thu Apr 18 2024 17:19:48 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":630399.046},"process":{"argv":["node","C:\\javascript_vuejs\\nodejs\\crud-project\\src\\index.js"],"cwd":"C:\\javascript_vuejs\\nodejs\\crud-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18316007,"external":20506176,"heapTotal":52092928,"heapUsed":49323432,"rss":90947584},"pid":13024,"uid":null,"version":"v19.3.0"},"stack":"TypeError: next is not a function\n    at _callee$ (C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js:33:5)\n    at tryCatch (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:27:7\n    at new Promise (<anonymous>)\n    at apply (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:19:12)\n    at userAuth (C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js:17:22)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at logger (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\body-parser\\lib\\read.js:137:5\n    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)\n    at invokeCallback (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:513:28)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","trace":[{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js","function":"_callee$","line":33,"method":null,"native":false},{"column":16,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":45,"method":null,"native":false},{"column":17,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":null,"line":133,"method":null,"native":false},{"column":21,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":74,"method":"next","native":false},{"column":24,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":22,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":null,"line":27,"method":null,"native":false},{"column":null,"file":null,"function":"new Promise","line":null,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"apply","line":19,"method":null,"native":false},{"column":22,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js","function":"userAuth","line":17,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js","function":"next","line":149,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js","function":"Route.dispatch","line":119,"method":"dispatch","native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":15,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":284,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\morgan\\index.js","function":"logger","line":144,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\body-parser\\lib\\read.js","function":null,"line":137,"method":null,"native":false},{"column":9,"file":"node:async_hooks","function":"AsyncResource.runInAsyncScope","line":204,"method":"runInAsyncScope","native":false},{"column":16,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"invokeCallback","line":238,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"done","line":227,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"IncomingMessage.onEnd","line":287,"method":"onEnd","native":false},{"column":28,"file":"node:events","function":"IncomingMessage.emit","line":513,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"IncomingMessage.emit","line":489,"method":"emit","native":false},{"column":12,"file":"node:internal/streams/readable","function":"endReadableNT","line":1359,"method":null,"native":false},{"column":21,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":82,"method":null,"native":false}]}
+error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at _callee$ (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:32:5)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:17:22)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {"date":"Thu Apr 18 2024 17:21:57 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":630528.14},"process":{"argv":["node","C:\\javascript_vuejs\\nodejs\\crud-project\\src\\index.js"],"cwd":"C:\\javascript_vuejs\\nodejs\\crud-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18472751,"external":20665051,"heapTotal":90103808,"heapUsed":51420376,"rss":128454656},"pid":2156,"uid":null,"version":"v19.3.0"},"stack":"TypeError: next is not a function\n    at _callee$ (C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js:32:5)\n    at tryCatch (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:27:7\n    at new Promise (<anonymous>)\n    at apply (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:19:12)\n    at userAuth (C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js:17:22)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at logger (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\body-parser\\lib\\read.js:137:5\n    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)\n    at invokeCallback (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:513:28)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","trace":[{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js","function":"_callee$","line":32,"method":null,"native":false},{"column":16,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":45,"method":null,"native":false},{"column":17,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":null,"line":133,"method":null,"native":false},{"column":21,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":74,"method":"next","native":false},{"column":24,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":22,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":null,"line":27,"method":null,"native":false},{"column":null,"file":null,"function":"new Promise","line":null,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"apply","line":19,"method":null,"native":false},{"column":22,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js","function":"userAuth","line":17,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js","function":"next","line":149,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js","function":"Route.dispatch","line":119,"method":"dispatch","native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":15,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":284,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\morgan\\index.js","function":"logger","line":144,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\body-parser\\lib\\read.js","function":null,"line":137,"method":null,"native":false},{"column":9,"file":"node:async_hooks","function":"AsyncResource.runInAsyncScope","line":204,"method":"runInAsyncScope","native":false},{"column":16,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"invokeCallback","line":238,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"done","line":227,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"IncomingMessage.onEnd","line":287,"method":"onEnd","native":false},{"column":28,"file":"node:events","function":"IncomingMessage.emit","line":513,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"IncomingMessage.emit","line":489,"method":"emit","native":false},{"column":12,"file":"node:internal/streams/readable","function":"endReadableNT","line":1359,"method":null,"native":false},{"column":21,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":82,"method":null,"native":false}]}
+error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at _callee$ (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:32:5)
+    at tryCatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\javascript_vuejs\nodejs\crud-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (C:\javascript_vuejs\nodejs\crud-project\src\middlewares\/auth.middleware.js:17:22)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\javascript_vuejs\nodejs\crud-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\javascript_vuejs\nodejs\crud-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\javascript_vuejs\nodejs\crud-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+    at invokeCallback (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\javascript_vuejs\nodejs\crud-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) {"date":"Thu Apr 18 2024 17:23:34 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":630625.062},"process":{"argv":["node","C:\\javascript_vuejs\\nodejs\\crud-project\\src\\index.js"],"cwd":"C:\\javascript_vuejs\\nodejs\\crud-project","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19412909,"external":21605209,"heapTotal":93679616,"heapUsed":58877720,"rss":132239360},"pid":8208,"uid":null,"version":"v19.3.0"},"stack":"TypeError: next is not a function\n    at _callee$ (C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js:32:5)\n    at tryCatch (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:45:16)\n    at Generator.<anonymous> (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:133:17)\n    at Generator.next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:74:21)\n    at asyncGeneratorStep (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:22:9)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:27:7\n    at new Promise (<anonymous>)\n    at apply (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:19:12)\n    at userAuth (C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js:17:22)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at logger (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\morgan\\index.js:144:5)\n    at Layer.handle [as handle_request] (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\body-parser\\lib\\read.js:137:5\n    at AsyncResource.runInAsyncScope (node:async_hooks:204:9)\n    at invokeCallback (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:513:28)\n    at IncomingMessage.emit (node:domain:489:12)\n    at endReadableNT (node:internal/streams/readable:1359:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","trace":[{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js","function":"_callee$","line":32,"method":null,"native":false},{"column":16,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":45,"method":null,"native":false},{"column":17,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":null,"line":133,"method":null,"native":false},{"column":21,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":74,"method":"next","native":false},{"column":24,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":22,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":null,"line":27,"method":null,"native":false},{"column":null,"file":null,"function":"new Promise","line":null,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"apply","line":19,"method":null,"native":false},{"column":22,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\src\\middlewares\\/auth.middleware.js","function":"userAuth","line":17,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js","function":"next","line":149,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\route.js","function":"Route.dispatch","line":119,"method":"dispatch","native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":15,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":284,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":3,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.handle","line":175,"method":"handle","native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"router","line":47,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\morgan\\index.js","function":"logger","line":144,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\layer.js","function":"Layer.handle [as handle_request]","line":95,"method":"handle [as handle_request]","native":false},{"column":13,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"trim_prefix","line":328,"method":null,"native":false},{"column":9,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":null,"line":286,"method":null,"native":false},{"column":12,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"Function.process_params","line":346,"method":"process_params","native":false},{"column":10,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\express\\lib\\router\\index.js","function":"next","line":280,"method":null,"native":false},{"column":5,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\body-parser\\lib\\read.js","function":null,"line":137,"method":null,"native":false},{"column":9,"file":"node:async_hooks","function":"AsyncResource.runInAsyncScope","line":204,"method":"runInAsyncScope","native":false},{"column":16,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"invokeCallback","line":238,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"done","line":227,"method":null,"native":false},{"column":7,"file":"C:\\javascript_vuejs\\nodejs\\crud-project\\node_modules\\raw-body\\index.js","function":"IncomingMessage.onEnd","line":287,"method":"onEnd","native":false},{"column":28,"file":"node:events","function":"IncomingMessage.emit","line":513,"method":"emit","native":false},{"column":12,"file":"node:domain","function":"IncomingMessage.emit","line":489,"method":"emit","native":false},{"column":12,"file":"node:internal/streams/readable","function":"endReadableNT","line":1359,"method":null,"native":false},{"column":21,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":82,"method":null,"native":false}]}
+info: ::1 - - [18/Apr/2024:11:55:12 +0000] "POST /api/user/resetpass HTTP/1.1" - - "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:11:59:51 +0000] "POST /api/user/resetpass HTTP/1.1" - - "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:00:28 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:01:49 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:03:20 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:04:20 +0000] "POST /api/user/resetpass HTTP/1.1" 500 48 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:05:02 +0000] "POST /api/user/resetpass HTTP/1.1" 202 139 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:07:04 +0000] "POST /api/user/resetpass HTTP/1.1" 500 83 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:08:13 +0000] "POST /api/user/resetpass HTTP/1.1" 500 83 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:15:38 +0000] "POST /api/user/resetpass HTTP/1.1" 202 276 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:29:02 +0000] "POST /api/user/resetpass HTTP/1.1" - - "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [18/Apr/2024:12:30:07 +0000] "POST /api/user/resetpass HTTP/1.1" 202 279 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [19/Apr/2024:05:47:14 +0000] "POST /api/user/forgotpass HTTP/1.1" 202 237 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [19/Apr/2024:05:47:21 +0000] "POST /api/user/resetpass HTTP/1.1" 202 279 "-" "PostmanRuntime/7.37.3"
+
+info: ::1 - - [19/Apr/2024:05:47:32 +0000] "POST /api/user/resetpass HTTP/1.1" 202 280 "-" "PostmanRuntime/7.37.3"
+
