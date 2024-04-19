@@ -4,17 +4,15 @@ dotenv.config();
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
-
 import routes from './routes';
 import database from './config/database';
-import {
-  appErrorHandler,
-  genericErrorHandler,
-  notFound
-} from './middlewares/error.middleware';
+import { appErrorHandler, genericErrorHandler, notFound } from './middlewares/error.middleware';
 import logger, { logStream } from './config/logger';
-
 import morgan from 'morgan';
+
+// Import Swagger UI Express
+import swaggerUi from 'swagger-ui-express';
+import swaggerDocument from './swagger/swagger.json'; // Assuming your Swagger JSON file is located in a folder named 'swagger'
 
 const app = express();
 const host = process.env.APP_HOST;
@@ -29,11 +27,18 @@ app.use(morgan('combined', { stream: logStream }));
 
 database();
 
+// Serve Swagger UI
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+
+// Routes
 app.use(`/api`, routes());
+
+// Error handling middleware
 app.use(appErrorHandler);
 app.use(genericErrorHandler);
 app.use(notFound);
 
+// Start the server
 app.listen(port, () => {
   logger.info(`Server started at ${host}:${port}/api/`);
 });

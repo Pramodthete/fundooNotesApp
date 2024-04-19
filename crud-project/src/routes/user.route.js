@@ -6,10 +6,10 @@ import { userAuth } from '../middlewares/auth.middleware';
 const router = express.Router();
 
 //route to create a new user
-router.post('',newUserValidator, userController.registerUser);//validater used before here
+router.post('/',newUserValidator, userController.registerUser); //validater used before here
 
 // route to forgot password
-router.post('/forgotpass', userController.forgetPassword);
+router.post('/forgetpass', userController.forgetPassword);
 
 // route to reset password
 router.post('/resetpass',userAuth, userController.resetPassword);

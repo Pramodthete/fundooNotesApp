@@ -1,0 +1,192 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "version": "V1",
+      "title": "Fundoo Notes Project",
+      "description": "This is the Project in NodeJS, Have the functionality of Register User, Login User, Forget Password, Reset Password Using Express server and MongoDB database"
+    },
+    "host": "localhost:3000",
+    "basePath": "/api/",
+    "tags": [
+      {
+        "name": "User",
+        "description": "CRUD app using express CLI"
+      }
+    ],
+    "schemes": ["http"],
+    "consumes": ["application/json"],
+    "produces": ["application/json"],
+    "securityDefinitions": {
+      "JWT": {
+        "type": "apiKey",
+        "name": "authorization",
+        "in": "header"
+      }
+    },
+    "security": [
+      {
+        "JWT": []
+      }
+    ],
+    "paths": {
+      "/user": {
+        "post": {
+          "tags": ["User"],
+          "description": "Register a new user.",
+          "parameters": [
+            {
+              "name": "User",
+              "in": "body",
+              "description": "User details",
+              "schema": {
+                "$ref": "#/definitions/User"
+              }
+            }
+          ],
+          "responses": {
+            "201": {
+              "description": "User created successfully"
+            },
+            "500": {
+              "description": "Internal server error"
+            }
+          }
+        }
+      },
+      "/user/login": {
+        "post": {
+          "tags": ["User"],
+          "description": "User login.",
+          "parameters": [
+            {
+              "name": "User",
+              "in": "body",
+              "description": "User credentials",
+              "schema": {
+                "$ref": "#/definitions/login"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successfully logged in"
+            },
+            "404": {
+              "description": "Email or password doesn't match"
+            },
+            "500": {
+              "description": "Internal server error"
+            }
+          }
+        }
+      },
+      "/user/forgetpass": {
+        "post": {
+          "tags": ["User"],
+          "description": "Initiate the forgot password process by providing user's email.",
+          "parameters": [
+            {
+              "name": "User",
+              "in": "body",
+              "description": "User email",
+              "schema": {
+                "$ref": "#/definitions/forgotpassword"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Token generated successfully"
+            },
+            "404": {
+              "description": "Email not found"
+            },
+            "500": {
+              "description": "Internal server error"
+            }
+          }
+        }
+      },
+      "/user/resetpass": {
+        "post": {
+          "tags": ["User"],
+          "description": "Reset password using token.",
+          "parameters": [
+            {
+              "name": "authorization",
+              "in": "header",
+              "description": "JWT token",
+              "required": true,
+              "type": "string"
+            },
+            {
+              "name": "User",
+              "in": "body",
+              "description": "New password",
+              "schema": {
+                "$ref": "#/definitions/resetpassword"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Password reset successfully"
+            },
+            "401": {
+              "description": "Unauthorized. Invalid or expired token"
+            },
+            "500": {
+              "description": "Internal server error"
+            }
+          }
+        }
+      }
+    },
+    "definitions": {
+      "User": {
+        "type": "object",
+        "properties": {
+          "fname": {
+            "type": "string"
+          },
+          "lname": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          },
+          "password": {
+            "type": "string"
+          }
+        }
+      },
+      "login": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string"
+          },
+          "password": {
+            "type": "string"
+          }
+        }
+      },
+      "forgotpassword": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string"
+          }
+        }
+      },
+      "resetpassword": {
+        "type": "object",
+        "properties": {
+          "password": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+  

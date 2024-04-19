@@ -19,8 +19,10 @@ export const forgetPassword = async (req, res)=>{
       const token = setToken(user);
       res.setHeader('authorization', token);
       console.log("token: "+token);
+      console.log(user);
       return token;
-  } 
+  }
+  return token; 
 }
 
 // Reset Password
