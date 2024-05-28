@@ -1,0 +1,307 @@
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:24:26.560Z"}
+error: Could not connect to the database. Login failed for user 'sa'. {"name":"SequelizeAccessDeniedError","original":{"code":"ELOGIN"},"parent":{"code":"ELOGIN"},"stack":"SequelizeAccessDeniedError: Login failed for user 'sa'.\n    at ConnectionManager.connect (C:\\frontend_vuejs\\fundooNotesApp\\fundoo-project\\node_modules\\sequelize\\src\\dialects\\mssql\\connection-manager.js:144:17)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at ConnectionManager._connect (C:\\frontend_vuejs\\fundooNotesApp\\fundoo-project\\node_modules\\sequelize\\src\\dialects\\abstract\\connection-manager.js:332:24)\n    at C:\\frontend_vuejs\\fundooNotesApp\\fundoo-project\\node_modules\\sequelize\\src\\dialects\\abstract\\connection-manager.js:250:32","timestamp":"2024-05-28T04:24:26.698Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:25:36.691Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:25:36.875Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/employee 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2024-05-28T04:28:25.542Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: invalid token
+    at Object.verify (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\jsonwebtoken\verify.js:75:17)
+    at _callee$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\middlewares\/auth.middleware.js:23:29)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at adminAuth (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\middlewares\/auth.middleware.js:13:23)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/employee 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:29:02.914Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/employee/getAll 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2024-05-28T04:29:31.912Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/employee/1 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2024-05-28T04:30:40.434Z"}
+error: 
+    status - 500 
+    message - TypeError: Admin.findByIdAndUpdate is not a function
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:43:30)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.resetPassword (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:41:27)
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\controllers\/admin.controller.js:34:37)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at resetPassword (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\controllers\/admin.controller.js:32:27)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at _callee$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\middlewares\/auth.middleware.js:30:7)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin/resetpass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:34:34.481Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:36:52.347Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:36:52.518Z"}
+error: 
+    status - 500 
+    message - AssertionError [ERR_ASSERTION]: Missing where attribute in the options parameter
+    at Function._optionsMustContainWhere (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:3569:5)
+    at Function.update (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:3203:10)
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:43:30)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.resetPassword (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:41:27)
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\controllers\/admin.controller.js:34:37)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at resetPassword (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\controllers\/admin.controller.js:32:27)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at _callee$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\middlewares\/auth.middleware.js:30:7)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin/resetpass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:37:02.267Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:37:21.023Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:37:21.353Z"}
+error: 
+    status - 500 
+    message - AssertionError [ERR_ASSERTION]: Missing where attribute in the options parameter
+    at Function._optionsMustContainWhere (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:3569:5)
+    at Function.update (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:3203:10)
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:43:30)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.resetPassword (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:41:27)
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\controllers\/admin.controller.js:34:37)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at resetPassword (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\controllers\/admin.controller.js:32:27)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at _callee$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\middlewares\/auth.middleware.js:30:7)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin/resetpass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:37:43.057Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:39:38.211Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:39:38.431Z"}
+error: 
+    status - 500 
+    message - AssertionError [ERR_ASSERTION]: Missing where attribute in the options parameter
+    at Function._optionsMustContainWhere (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:3569:5)
+    at Function.update (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:3203:10)
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:43:30)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.resetPassword (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:41:27)
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\controllers\/admin.controller.js:34:37)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at resetPassword (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\controllers\/admin.controller.js:32:27)
+    at Layer.handle [as handle_request] (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at _callee$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\middlewares\/auth.middleware.js:30:7)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin/resetpass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:39:41.774Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:40:49.849Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:40:50.015Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:41:08.384Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:41:08.597Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'update')
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:44:27)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin/resetpass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:41:11.353Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:41:29.657Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:41:29.874Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'update')
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:44:27)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin/resetpass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:41:32.473Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:42:15.434Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:42:15.642Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'update')
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:44:27)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin/resetpass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:42:19.045Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:42:46.469Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:42:46.759Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of null (reading 'update')
+    at _callee3$ (C:\frontend_vuejs\fundooNotesApp\fundoo-project\src\services\/admin.service.js:45:27)
+    at tryCatch (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\frontend_vuejs\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin/resetpass 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-28T04:42:50.515Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:43:14.053Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:43:14.234Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:44:06.216Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:44:06.439Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-28T04:44:39.806Z"}
+info: Connected to the database. {"timestamp":"2024-05-28T04:44:39.992Z"}

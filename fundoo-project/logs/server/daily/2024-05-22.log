@@ -1,0 +1,583 @@
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T05:03:48.819Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T05:03:50.616Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T05:07:50.593Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T05:07:51.288Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T05:09:37.646Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T05:10:20.597Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T05:11:05.581Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T05:11:06.245Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fName" is required 
+    url - /api/employee 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T05:15:17.153Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T05:19:12.660Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T05:19:25.433Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T05:19:26.067Z"}
+error: 
+    status - 500 
+    message - ValidationError: "startdate" is not allowed 
+    url - /api/employee 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T05:19:32.951Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T05:21:21.406Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T05:21:21.879Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T05:24:08.283Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T05:24:08.842Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:36:01.893Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:36:34.570Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T06:38:00.209Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:38:00.677Z"}
+error: 
+    status - 500 
+    message - ValidationError: "startdate" is not allowed 
+    url - /api/employee 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T06:39:50.791Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T06:41:09.671Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:41:10.121Z"}
+error: 
+    status - 500 
+    message - ValidationError: "gender" is required 
+    url - /api/employee/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-05-22T06:43:33.833Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T06:44:11.692Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:44:12.211Z"}
+error: 
+    status - 500 
+    message - ReferenceError: findByPk is not defined
+    at _callee3$ (C:\pramod\fundooNotesApp\fundoo-project\src\services\/employee.service.js:19:49)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.editEmployee (C:\pramod\fundooNotesApp\fundoo-project\src\services\/employee.service.js:19:28)
+    at _callee3$ (C:\pramod\fundooNotesApp\fundoo-project\src\controllers\/employee.controller.js:33:40)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateEmployee (C:\pramod\fundooNotesApp\fundoo-project\src\controllers\/employee.controller.js:31:28)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:284:15
+    at param (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\pramod\fundooNotesApp\fundoo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:137:5 
+    url - /api/employee/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-05-22T06:44:16.789Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T06:48:17.838Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:48:18.311Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T06:51:20.841Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:51:21.308Z"}
+error: 
+    status - 500 
+    message - ReferenceError: findOne is not defined
+    at _callee3$ (C:\pramod\fundooNotesApp\fundoo-project\src\services\/employee.service.js:20:49)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.editEmployee (C:\pramod\fundooNotesApp\fundoo-project\src\services\/employee.service.js:20:28)
+    at _callee3$ (C:\pramod\fundooNotesApp\fundoo-project\src\controllers\/employee.controller.js:33:40)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateEmployee (C:\pramod\fundooNotesApp\fundoo-project\src\controllers\/employee.controller.js:31:28)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:284:15
+    at param (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\pramod\fundooNotesApp\fundoo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:137:5 
+    url - /api/employee/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-05-22T06:53:58.425Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T06:54:52.148Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:54:52.614Z"}
+error: 
+    status - 500 
+    message - ReferenceError: updatedEmp is not defined
+    at _callee3$ (C:\pramod\fundooNotesApp\fundoo-project\src\services\/employee.service.js:22:15)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/employee/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-05-22T06:56:39.303Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T06:57:44.208Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:57:44.658Z"}
+error: 
+    status - 500 
+    message - AssertionError [ERR_ASSERTION]: Missing where attribute in the options parameter
+    at Function._optionsMustContainWhere (C:\pramod\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:3569:5)
+    at Function.update (C:\pramod\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:3203:10)
+    at _callee3$ (C:\pramod\fundooNotesApp\fundoo-project\src\services\/employee.service.js:24:33)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/employee/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-05-22T06:57:59.015Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T06:59:55.889Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T06:59:56.379Z"}
+error: 
+    status - 500 
+    message - Error: Argument passed to findByPk is invalid: [object Object]
+    at Function.findByPk (C:\pramod\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:1950:13)
+    at _callee3$ (C:\pramod\fundooNotesApp\fundoo-project\src\services\/employee.service.js:21:32)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.editEmployee (C:\pramod\fundooNotesApp\fundoo-project\src\services\/employee.service.js:20:28)
+    at _callee3$ (C:\pramod\fundooNotesApp\fundoo-project\src\controllers\/employee.controller.js:33:40)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at updateEmployee (C:\pramod\fundooNotesApp\fundoo-project\src\controllers\/employee.controller.js:31:28)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:284:15
+    at param (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\pramod\fundooNotesApp\fundoo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/employee/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2024-05-22T07:00:01.771Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T07:00:30.201Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:00:30.658Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T07:04:32.619Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:04:33.796Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T07:06:19.936Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:06:20.403Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T07:07:11.613Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:07:12.286Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:09:49.120Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:10:29.548Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:10:49.776Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:11:35.095Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T07:12:41.071Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:12:41.558Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T07:16:19.690Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:16:20.543Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T07:19:05.660Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T07:19:06.123Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:10:56.700Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:10:57.180Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/employee/2 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2024-05-22T08:11:09.736Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (C:\pramod\fundooNotesApp\fundoo-project\node_modules\sequelize\src\dialects\mssql\query.js:128:25)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at MSSqlQueryInterface.select (C:\pramod\fundooNotesApp\fundoo-project\node_modules\sequelize\src\dialects\abstract\query-interface.js:1001:12)
+    at Function.findAll (C:\pramod\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:1824:21)
+    at Function.findOne (C:\pramod\fundooNotesApp\fundoo-project\node_modules\sequelize\src\model.js:1998:12) 
+    url - /api/admin/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T08:11:40.795Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:17:46.678Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:17:47.203Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/employee/getAll 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2024-05-22T08:23:51.246Z"}
+error: 
+    status - 500 
+    message - Error: Missing default value
+    at new module.exports (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@hapi\hoek\lib\error.js:23:19)
+    at module.exports (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@hapi\hoek\lib\assert.js:21:11)
+    at internals.Base._default (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@hapi\joi\lib\base.js:795:9)
+    at internals.Base.default (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@hapi\joi\lib\base.js:98:21)
+    at newadminValidator (C:\pramod\fundooNotesApp\fundoo-project\src\validators\/admin.validator.js:10:30)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\pramod\fundooNotesApp\fundoo-project\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:328:13)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\express\lib\router\index.js:280:10)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/admin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T08:25:23.511Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:26:07.929Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:26:08.474Z"}
+error: 
+    status - 500 
+    message - ValidationError: "role" is required 
+    url - /api/admin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T08:26:13.572Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:26:42.506Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:26:42.997Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:38:36.736Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:38:37.207Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee$ (C:\pramod\fundooNotesApp\fundoo-project\src\services\/admin.service.js:19:12)
+    at tryCatch (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:45:16)
+    at Generator.<anonymous> (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:133:17)
+    at Generator.next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:74:21)
+    at asyncGeneratorStep (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\pramod\fundooNotesApp\fundoo-project\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/admin 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T08:38:44.479Z"}
+error: 
+      status - 400
+      message - Admin Authorization token is required 
+      url - /api/employee/2 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2024-05-22T08:40:07.297Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:42:42.782Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:42:43.252Z"}
+error: 
+      status - 400
+      message - Admin Authorization token is required 
+      url - /api/employee/2 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2024-05-22T08:42:47.424Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:43:29.665Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:43:30.477Z"}
+error: 
+      status - 400
+      message - Admin Authorization token is required 
+      url - /api/employee/2 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2024-05-22T08:43:36.824Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:45:56.672Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:45:57.144Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:46:45.240Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:46:45.666Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:48:05.209Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:48:05.737Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:49:03.007Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:49:03.572Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:49:31.434Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:49:31.959Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:51:50.852Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:51:51.387Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/employee/2 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2024-05-22T08:53:17.033Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:56:10.587Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:56:11.183Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/admin/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T08:57:36.407Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T08:58:52.184Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T08:58:52.697Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/admin/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T08:58:58.977Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T09:02:20.685Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T09:02:21.145Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/admin/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T09:02:56.549Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T09:06:42.174Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T09:06:42.653Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/admin/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T09:06:47.223Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T09:09:16.000Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T09:09:16.502Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/admin/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T09:09:21.696Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T09:10:16.445Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T09:10:17.016Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/admin/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T09:10:20.872Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T09:11:14.496Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T09:11:15.101Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Expected double-quoted property name in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\pramod\fundooNotesApp\fundoo-project\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:238:16)
+    at done (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\pramod\fundooNotesApp\fundoo-project\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at IncomingMessage.emit (node:domain:488:12)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21) 
+    url - /api/admin/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-05-22T09:13:40.396Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T09:19:51.544Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T09:19:52.234Z"}
+error: 
+      status - 400
+      message - Admin Authorization token is required 
+      url - /api/employee/2 
+      method - PUT 
+      IP - ::1
+     {"timestamp":"2024-05-22T09:19:58.127Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T09:26:40.112Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T09:26:40.681Z"}
+info: Server started at http://localhost:3000/api/ {"timestamp":"2024-05-22T09:33:10.142Z"}
+info: Connected to the database. {"timestamp":"2024-05-22T09:33:10.675Z"}

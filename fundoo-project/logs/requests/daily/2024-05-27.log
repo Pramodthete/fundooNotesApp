@@ -1,0 +1,48 @@
+info: ::1 - - [28/May/2024:04:27:11 +0000] "POST /api/admin HTTP/1.1" 201 294 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:27:59 +0000] "POST /api/admin/login HTTP/1.1" 201 220 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:28:25 +0000] "POST /api/employee HTTP/1.1" 400 56 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:28:45 +0000] "POST /api/employee HTTP/1.1" 202 266 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:29:02 +0000] "POST /api/employee HTTP/1.1" 500 48 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:29:16 +0000] "POST /api/employee HTTP/1.1" 202 266 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:29:31 +0000] "GET /api/employee/getAll HTTP/1.1" 400 56 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:29:44 +0000] "GET /api/employee/getAll HTTP/1.1" 202 466 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:30:15 +0000] "DELETE /api/employee/2 HTTP/1.1" 202 263 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:30:40 +0000] "GET /api/employee/1 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:30:52 +0000] "GET /api/employee/1 HTTP/1.1" 202 263 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:31:44 +0000] "PUT /api/employee/1 HTTP/1.1" 202 268 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:32:48 +0000] "POST /api/admin/forgetpass HTTP/1.1" 202 206 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:33:25 +0000] "POST /api/admin/updatepass HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:34:34 +0000] "POST /api/admin/resetpass HTTP/1.1" 500 76 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:37:02 +0000] "POST /api/admin/resetpass HTTP/1.1" 500 83 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:37:43 +0000] "POST /api/admin/resetpass HTTP/1.1" 500 83 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:39:41 +0000] "POST /api/admin/resetpass HTTP/1.1" 500 83 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:41:11 +0000] "POST /api/admin/resetpass HTTP/1.1" 500 84 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:41:32 +0000] "POST /api/admin/resetpass HTTP/1.1" 500 84 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:42:19 +0000] "POST /api/admin/resetpass HTTP/1.1" 500 84 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:42:50 +0000] "POST /api/admin/resetpass HTTP/1.1" 500 84 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:43:16 +0000] "POST /api/admin/resetpass HTTP/1.1" 202 292 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [28/May/2024:04:44:10 +0000] "POST /api/admin/resetpass HTTP/1.1" 202 292 "-" "PostmanRuntime/7.39.0"
+

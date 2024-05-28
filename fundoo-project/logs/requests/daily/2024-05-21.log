@@ -1,0 +1,118 @@
+info: ::1 - - [21/May/2024:06:21:08 +0000] "POST /api/user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:21:32 +0000] "GET /api/v1/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"
+
+info: ::1 - - [21/May/2024:06:21:42 +0000] "GET /api/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"
+
+info: ::1 - - [21/May/2024:06:23:31 +0000] "GET /api/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"
+
+info: ::1 - - [21/May/2024:06:23:46 +0000] "POST /api/user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:23:54 +0000] "GET /api/user HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"
+
+info: ::1 - - [21/May/2024:06:24:26 +0000] "POST /api/user HTTP/1.1" 500 60 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:25:16 +0000] "POST /api/user HTTP/1.1" 500 60 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:25:58 +0000] "POST /api/user HTTP/1.1" 500 56 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:27:03 +0000] "POST /api/user HTTP/1.1" 500 89 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:27:19 +0000] "POST /api/user HTTP/1.1" 500 77 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:28:44 +0000] "POST /api/user HTTP/1.1" 500 35 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:33:35 +0000] "POST /api/user HTTP/1.1" 500 35 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:38:31 +0000] "POST /api/user HTTP/1.1" 500 35 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:44:54 +0000] "POST /api/user HTTP/1.1" 201 228 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:06:47:29 +0000] "GET /api-docs/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:47:31 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:47:42 +0000] "GET /api/api-docs/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:48:13 +0000] "GET /api/api-docs/user HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:48:24 +0000] "GET /swagger/api-docs/user HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:49:32 +0000] "GET /api-docs/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:49:40 +0000] "GET /api-docs/user HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:50:03 +0000] "GET /api/user HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:50:36 +0000] "GET /api HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:06:55:59 +0000] "GET /api-docs/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:07:13:57 +0000] "GET /api/api-docs/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:07:14:04 +0000] "GET /api-docs/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:07:21:41 +0000] "POST /api/user HTTP/1.1" 201 232 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:30:44 +0000] "POST /api/user HTTP/1.1" 500 56 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:31:15 +0000] "POST /api/user/forgetpass HTTP/1.1" 500 71 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:32:15 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:32:30 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:33:19 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:43:58 +0000] "POST /api/user/login HTTP/1.1" 201 87 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:47:34 +0000] "POST /api/user/login HTTP/1.1" 500 55 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:52:18 +0000] "POST /api/user/login HTTP/1.1" 500 71 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:07:56:57 +0000] "GET /api-docs/ HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+
+info: ::1 - - [21/May/2024:08:03:50 +0000] "POST /api/user/login HTTP/1.1" 500 71 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:08:06:52 +0000] "POST /api/user/login HTTP/1.1" 201 231 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:08:10:15 +0000] "POST /api/user/forgetpass HTTP/1.1" 202 186 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:08:48:43 +0000] "POST /api/user HTTP/1.1" 500 53 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:09:44:22 +0000] "POST /api/user HTTP/1.1" 500 53 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:09:46:13 +0000] "POST /api/user HTTP/1.1" 500 56 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:09:53:21 +0000] "POST /api/user HTTP/1.1" 201 284 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:10:08:49 +0000] "POST /api/user/login HTTP/1.1" 201 284 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:10:13:32 +0000] "POST /api/user/login HTTP/1.1" 201 203 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:10:14:42 +0000] "POST /api/user/login HTTP/1.1" 201 283 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:12:18:09 +0000] "POST /api/admin HTTP/1.1" 500 55 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:12:20:26 +0000] "POST /api/admin HTTP/1.1" 201 285 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:16:01 +0000] "POST /api/admin/login HTTP/1.1" 201 284 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:17:29 +0000] "GET /api/admin/getAll HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:17:56 +0000] "POST /api/admin/forgetpass HTTP/1.1" 202 191 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:21:26 +0000] "GET /api/employee/getAll HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:22:37 +0000] "GET /api/employee/getAll HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:24:42 +0000] "GET /api/employee/getAll HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:26:28 +0000] "GET /api/employee/getAll HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:27:25 +0000] "GET /api/employee/getAll HTTP/1.1" 404 47 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:28:09 +0000] "GET /api/employee/getAll HTTP/1.1" 202 63 "-" "PostmanRuntime/7.39.0"
+
+info: ::1 - - [21/May/2024:13:28:12 +0000] "GET /api/employee/getAll HTTP/1.1" 202 63 "-" "PostmanRuntime/7.39.0"
+
